@@ -6,7 +6,7 @@
 
 ### About Me 👦
 
-- 🌱 I’m currently learning: Docker and Kubernetes.
+- 🌱 I’m currently learning: AWS, Docker, and Kubernetes!
 - 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me: sm.rahman5566@gmail.com
 - <img width="20" align="center" alt="Devpost Logo" src="https://pbs.twimg.com/profile_images/625987202909085696/KKYbLP8y_400x400.jpg"> Check out my <a href="http://devpost.com/smrahman5566">Devpost<a/> for hackathon submissions
